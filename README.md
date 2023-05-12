@@ -1,6 +1,6 @@
-### Hi there 👋
+### 창업을 겪어본 서버 개발자 neo입니다 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-startup&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-startup&show_icons=true&theme=github_dark)
 
 <!--
 **neo-startup/neo-startup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
